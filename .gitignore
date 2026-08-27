@@ -3,4 +3,12 @@
 composer.phar
 composer.lock
 .DS_Store
-/idea
+/.idea/
+/.idea/.gitignore
+/.idea/ConTroll.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sqldialects.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
